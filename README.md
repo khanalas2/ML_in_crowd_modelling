@@ -26,3 +26,9 @@ python problem3.py
 ```
 python problem4.py --filename scenario1.txt
 ```
+
+### problem 5 Test 1
+
+```
+python test1.py
+```
